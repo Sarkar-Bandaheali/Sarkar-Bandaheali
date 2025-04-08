@@ -57,16 +57,16 @@
 <h3 align="center" style="color: #00ff9f; text-shadow: 0 0 5px #00ff9f;">🌐 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄 🌐</h3>
 
 <p align="center">
-  <a href="https://wa.me/919999999999">
+  <a href="https://wa.me/923253617422?text=*_HELLO+SARKAR+BANDAHEALI_*">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000">
   </a>
-  <a href="https://t.me/SarkarBandaheali">
+  <a href="https://t.me/Bandah+e+ali">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000">
   </a>
-  <a href="https://instagram.com/SarkarBandaheali">
+  <a href="https://instagram.com/bandaheali">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000">
   </a>
-  <a href="https://youtube.com/@SarkarBandaheali">
+  <a href="https://youtube.com">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000">
   </a>
 </p>
