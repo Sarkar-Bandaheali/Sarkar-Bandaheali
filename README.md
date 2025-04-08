@@ -1,6 +1,6 @@
 <h1 align="center">🚀 𝐒𝐀𝐑𝐊𝐀𝐑-𝐁𝐀𝐍𝐃𝐀𝐇𝐄𝐀𝐋𝐈 | 𝐒𝐀𝐑𝐊𝐀𝐑-𝐌𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 <img src="https://i.imgur.com/7F0D5zG.gif" width="50"></h1>
 
-![Sarkar-MD Banner](https://i.imgur.com/8JQZf3A.gif)
+![Sarkar-MD Banner](https://files.catbox.moe/9cppjw.jpg)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=PROFESSIONAL+WHATSAPP+BOT+DEVELOPER;5%2B+YEARS+CODING+EXPERIENCE;100%25+BUG-FREE+CODE;24%2F7+ACTIVE+DEVELOPER;THE+FUTURE+OF+WHATSAPP+BOTS" alt="Typing SVG" /></a>
